@@ -1,3 +1,3 @@
-# Personal Portfolio Page - [Github](https://github.com/21-raghav/github-profile-search-app)
+# Personal Portfolio Page - [Site](https://21-raghav.github.io/Portfolio-Page/)
 
 Built by Raghav Saxena using: React, Styled-Components.
